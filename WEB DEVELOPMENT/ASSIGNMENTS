@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p{background-color: darkgrey;color: black;}
+        </style>
+        <title><h1>Your Personal Blog</h1><h2>Home<br>Blog<br>About</h2></title>
+    </head>
+    <body><h3>Newest Post<br><br><br>About Me</h3>
+    <h4>First Post</h4>
+<p>Lorem ipsum dolor sit amet
+    <a href="https//:twitter.com">Twitter</a><br><a href="https//:Fcebook.com">Facebook</a><br>
+    <a href="https//:instagram.com">Instagram</a>
+</p></body>
+</html>
