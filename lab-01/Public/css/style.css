@@ -1,0 +1,37 @@
+div{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.right column{
+float:left;
+width: 75%;
+}
+
+.Navigation{
+    text-align: center;
+    margin: 5px;
+}
+    main{
+        border-radius: 2px;
+        border-style: hidden;
+        padding-top: 10px;
+        background-color: silver;
+
+
+    }
+
+    aside{
+        
+        border-style:solid;
+        padding: 5px;
+        display: inline-block;
+        width: 300px;
+        height: 250px;
+        vertical-align: top;   }
+
+
+
+            
+
+        
