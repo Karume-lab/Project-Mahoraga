@@ -1,0 +1,40 @@
+
+.Navigation{
+    text-align: center;
+    margin: 5px;
+}
+    main{
+        float:left;
+        width:75%;
+        margin-top: 10%;
+        border-radius: 5%;
+        border-style: hidden;
+        padding-top: 10px;
+        background-color: silver;
+
+
+    }
+
+
+    .rightcolumn{
+        background-color: gray;
+        float:left;
+        width: 67%;
+        text-align: end;
+        display:flex;
+        }
+
+    aside{
+        float:right;
+        border-style:solid;
+        padding: 5px;
+        display: inline-block;
+        width: 30%;
+        height: 200px;
+        vertical-align: top;   }
+
+
+
+            
+
+        
