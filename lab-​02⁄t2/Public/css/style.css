@@ -1,0 +1,50 @@
+.image{
+    margin-left: 40%;
+    float:left;
+    }
+body{
+    background: rgb(225,238,244);
+background: linear-gradient(175deg, rgba(225,238,244,1) 0%, rgba(194,228,239,1) 94%) center no-repeat fixed;
+    
+}
+.topic{
+    font-family : Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: text-bottom;
+    margin-left: 40%;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    width:215px;
+    margin-left: 21px;
+    display: inline-block;
+    margin-right: 20%;
+    vertical-align: top;
+}
+.box{
+    display: inline-block;
+}
+.top{
+    background-color: #FFFFFF;
+
+}
+
+.bottom a{
+    font-size: larger;
+    text-decoration:none;
+    margin-left: 255px;
+
+
+}
+.search{
+    margin-top: 25px;
+    border: hidden;
+    padding: 5px 15px;
+    display: flex;
+    
+}
+.bar{
+    border: hidden;
+    margin-left: 15px;
+    width: 555px;
+}
