@@ -1,3 +1,7 @@
+/*
+CORRECT LINE 6
+*/
+
 /*Variables declared with const cannot be redeclared or reassigned */
 /* Variables declared with const have block scope*/
 
