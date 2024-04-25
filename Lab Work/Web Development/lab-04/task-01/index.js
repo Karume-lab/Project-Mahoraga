@@ -1,4 +1,9 @@
 /*
+LINE 6 AND 7 ARE CONTRADICTING, FIX THAT
+KAZI SAFI
+*/
+
+/*
 Variables declared with var are function-scoped.
 They can be accessed within the function where they are declared or globally if declared outside of a function. 
 They can be accessed even outside of the block they are declared in. 
